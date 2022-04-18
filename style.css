@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(image/zakir80.JPG);
+    background-size: cover;
+    font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content:0px;
+}
+
+.Register-now{
+    width: 330px;
+    height: 500px;
+    padding: 30px;
+    border: 5px solid #c0dd04fa;
+    border-radius: 10px;
+    outline: none;
+    background: rgba(79, 112, 77, 0.5);
+}
+
+.form h2{
+    color: #23b2d6;
+
+}
+.inputt-style{
+    margin-top: 15px;
+}
+.inputt-style input{
+    width: 90%;
+    background: transparent;
+    padding: 3px;
+    border: 2px solid #16a085;
+    border-radius: 5px;
+    color:#090909;
+    outline: none;
+    height: 15px;
+    margin-bottom: 10px;
+    
+}
+
+.inputt-style label{
+    color:#0b0b0b; 
+    margin-bottom: 4px;
+    display: block;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 1px;
+}
+.gender p{
+    color:#00cafc;
+    margin-top: 4px;
+
+}
+.option{
+    margin-top: 6px;
+    font: size 20px;
+
+}
+.option label{
+    color: #000000;
+    cursor: pointer;
+}
+
+.registed-page input{
+    width: 90%;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius:5px;
+    cursor:pointer
+    border:none;
+    
+}
+
+.registed-page input:hover{
+    background-color: #00cafc8c;
+    font-style: italic;
+    border-radius: 15px;
+    font-size: 15px;
+    color: rgb(246, 16, 4);
+
+}
